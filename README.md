@@ -58,7 +58,7 @@ Users should be able to:
 
 - [Bootstrap documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index?retiredLocale=de)
-- [translate] (https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate)
+- [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate)
 
 
 ## Author
