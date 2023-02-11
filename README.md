@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
+- Solution URL: https://github.com/aadler91/frontendmentor_huddle-langing-page
 - Live Site URL: https://your-live-site-url.com
 
 ## My process
