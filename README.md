@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/aadler91/frontendmentor_huddle-langing-page
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://aadler91.github.io/frontendmentor_huddle-langing-page/
 
 ## My process
 
